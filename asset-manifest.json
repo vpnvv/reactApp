@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fc924b83.css",
+    "main.js": "/static/js/main.b1f89abb.js",
+    "static/media/messi.jpg": "/static/media/messi.7061461cf9e95e87171d.jpg",
+    "index.html": "/index.html",
+    "main.fc924b83.css.map": "/static/css/main.fc924b83.css.map",
+    "main.b1f89abb.js.map": "/static/js/main.b1f89abb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc924b83.css",
+    "static/js/main.b1f89abb.js"
+  ]
+}
