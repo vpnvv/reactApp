@@ -1,0 +1,17 @@
+.card{
+    /* max-width: 14rem; */
+    text-align: center;
+}
+
+.Main{
+    text-align: center;
+}
+
+.AppleIcon{
+    color: black;
+    font-size: 15rem;
+}
+
+.AppleIcon:hover{
+    color: rgb(255, 0, 0);
+}
